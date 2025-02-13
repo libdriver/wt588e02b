@@ -1,0 +1,56 @@
+var group__wt588e02b__basic__driver =
+[
+    [ "wt588e02b_handle_s", "structwt588e02b__handle__s.html", [
+      [ "bin_read", "structwt588e02b__handle__s.html#a8e2a61d112ef4600e511e1232cbaf450", null ],
+      [ "bin_read_deinit", "structwt588e02b__handle__s.html#ac861315733904bcf0547b4183f22dd3f", null ],
+      [ "bin_read_init", "structwt588e02b__handle__s.html#a4a55b90a40af7d6729458c57f2717f13", null ],
+      [ "buf", "structwt588e02b__handle__s.html#a8d6aa3b6556562d34ec088f58aac9b60", null ],
+      [ "cs_gpio_deinit", "structwt588e02b__handle__s.html#a4c0f1e46af6a7a5276974c61d65ab862", null ],
+      [ "cs_gpio_init", "structwt588e02b__handle__s.html#ab5682510ddfd8a64750b8be949703fa1", null ],
+      [ "cs_gpio_write", "structwt588e02b__handle__s.html#a4e53b46b608e67315b8e8065f2f37db2", null ],
+      [ "debug_print", "structwt588e02b__handle__s.html#a769d5b3a6c14790a0e126e8fe70b384b", null ],
+      [ "delay_ms", "structwt588e02b__handle__s.html#a406c9433252b7366de417b7a60915c81", null ],
+      [ "delay_us", "structwt588e02b__handle__s.html#a97ffc4fce945527bd6ab25a3596caef7", null ],
+      [ "inited", "structwt588e02b__handle__s.html#a19bedf28d2b9748f6a62d9ae93f4e68f", null ],
+      [ "miso_gpio_deinit", "structwt588e02b__handle__s.html#acd5fe44a892b1d7db60056110f52af6c", null ],
+      [ "miso_gpio_init", "structwt588e02b__handle__s.html#abe2afa08194455c99c709d78b2bb9b23", null ],
+      [ "miso_gpio_read", "structwt588e02b__handle__s.html#a3f7680b98ae7c8f40da5681f2dce56c2", null ],
+      [ "mosi_gpio_deinit", "structwt588e02b__handle__s.html#a30972c3df223a8fdb3288061cdbb236f", null ],
+      [ "mosi_gpio_init", "structwt588e02b__handle__s.html#a3af67aa4ab1b4ca55ee5f721121c79f6", null ],
+      [ "mosi_gpio_write", "structwt588e02b__handle__s.html#a0e9022fb32d9c0d825a4a36cca9ee504", null ],
+      [ "sclk_gpio_deinit", "structwt588e02b__handle__s.html#a46c80be5f6502c3241ebbe66571720bb", null ],
+      [ "sclk_gpio_init", "structwt588e02b__handle__s.html#ab76991d06868e192e69f666bf3e56ad4", null ],
+      [ "sclk_gpio_write", "structwt588e02b__handle__s.html#a6c0083a9bf296c3092129cc31d9f1d3d", null ],
+      [ "sum", "structwt588e02b__handle__s.html#a56ccbe03c5325da33b8e6a07b2d56f77", null ]
+    ] ],
+    [ "wt588e02b_info_s", "structwt588e02b__info__s.html", [
+      [ "chip_name", "structwt588e02b__info__s.html#af890958c72bd715cc6454a10dc846ae6", null ],
+      [ "driver_version", "structwt588e02b__info__s.html#a41b0bd442708b70d252c50b92c75265a", null ],
+      [ "interface", "structwt588e02b__info__s.html#aebaa6c28dd4f2c3dc27566fcb910fd28", null ],
+      [ "manufacturer_name", "structwt588e02b__info__s.html#ad25285dbf810c90f8eaf3fcef6f2b2ea", null ],
+      [ "max_current_ma", "structwt588e02b__info__s.html#a9db82802561bf22d799b03a345f1d1dc", null ],
+      [ "supply_voltage_max_v", "structwt588e02b__info__s.html#a3d2b12bcac7a85ea8646bff9debe8660", null ],
+      [ "supply_voltage_min_v", "structwt588e02b__info__s.html#ad8bde6ddadaf43d951e62f3befb9d35a", null ],
+      [ "temperature_max", "structwt588e02b__info__s.html#a3366a5dce9b829e03c3d321c2b4df3f6", null ],
+      [ "temperature_min", "structwt588e02b__info__s.html#a8f9dbe66ac0b66ebae0a36fcb4ba368e", null ]
+    ] ],
+    [ "wt588e02b_handle_t", "group__wt588e02b__basic__driver.html#ga20be74e5da6e2b4b6c8199ddeaa489ec", null ],
+    [ "wt588e02b_info_t", "group__wt588e02b__basic__driver.html#ga0640bd6d3eae8ae0ba40f673ed436147", null ],
+    [ "wt588e02b_bool_t", "group__wt588e02b__basic__driver.html#ga80e258de91d55078815d969548103d45", [
+      [ "WT588E02B_BOOL_FALSE", "group__wt588e02b__basic__driver.html#gga80e258de91d55078815d969548103d45a21728838e87318c614d13d136d8377de", null ],
+      [ "WT588E02B_BOOL_TRUE", "group__wt588e02b__basic__driver.html#gga80e258de91d55078815d969548103d45a3116af2297ddf860bbcd8094d1cc4e3c", null ]
+    ] ],
+    [ "wt588e02b_check_busy", "group__wt588e02b__basic__driver.html#ga7699996ee3d8d82114dcc79c513190f4", null ],
+    [ "wt588e02b_deinit", "group__wt588e02b__basic__driver.html#ga59d2bfc1f078fc3e1b8315d16d9cbd03", null ],
+    [ "wt588e02b_info", "group__wt588e02b__basic__driver.html#ga59a4192007ba1092ff86388c89fc8a1d", null ],
+    [ "wt588e02b_init", "group__wt588e02b__basic__driver.html#gac5b9abbe760103198b8e991058666eef", null ],
+    [ "wt588e02b_play", "group__wt588e02b__basic__driver.html#ga2687bbc571cc6a23def14497fd17e58e", null ],
+    [ "wt588e02b_play_list", "group__wt588e02b__basic__driver.html#gae3b94035e03a637b23fd4f9686366316", null ],
+    [ "wt588e02b_play_loop", "group__wt588e02b__basic__driver.html#ga5826a224487c3b0210f745cf33e9f591", null ],
+    [ "wt588e02b_play_loop_advance", "group__wt588e02b__basic__driver.html#ga7992ef25ca19cac06a08af6ea3860f9a", null ],
+    [ "wt588e02b_play_loop_all", "group__wt588e02b__basic__driver.html#gad5dbcec4d6c482fe7106aac37fbfb3ff", null ],
+    [ "wt588e02b_set_vol", "group__wt588e02b__basic__driver.html#gaafdcda1646c3f4b62d785b8498b85482", null ],
+    [ "wt588e02b_stop", "group__wt588e02b__basic__driver.html#gaffabdd094b93315233aad0d43fb1647e", null ],
+    [ "wt588e02b_update", "group__wt588e02b__basic__driver.html#ga091c551af7a766480d74be8c6fbbe450", null ],
+    [ "wt588e02b_update_all", "group__wt588e02b__basic__driver.html#gae6209d4fcf2e4394c991d3c5313dc2ce", null ]
+];
