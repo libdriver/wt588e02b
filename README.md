@@ -10,7 +10,7 @@
 
 WT588E02B-8S is a 16 bit DSP voice chip developed by Shenzhen Weichuang Zhiyin Electronics Co., Ltd. It has an internal oscillation of 32MHz and 16 bit PWM decoding. The powerful features make WT588E02B-8S a leader in the voice chip industry. At present, WT588E02B-8S can store up to 170 seconds of voice content with higher sound quality (if the customer has no requirements for sound quality, it can store up to 320 seconds of voice content). WT588E02B-8S is different from traditional OTP chips, and its biggest breakthrough is that customers can replace the internal voice content of the chip online through MCU or a matching downloader; And the chip has built-in hardware SPI UART、IIC、 Various resources such as comparators can be used to customize personalized functional products for customers.
 
-LibDriver WT588E02B is a full-featured driver of WT588E02B launched by LibDriver.It provides audio playing and other functions. LibDriver is MISRA compliant.
+LibDriver WT588E02B is a full-featured driver for WT588E02B, launched by LibDriver. It provides audio playing and additional features. LibDriver is MISRA compliant.
 
 ### Table of Contents
 
